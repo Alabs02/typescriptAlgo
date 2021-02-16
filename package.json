@@ -1,0 +1,9 @@
+{
+  "name": "insertionAlgorithm",
+  "version": "1.0.0",
+  "description": "An Insertion, Deletion Algorithm built with typescript and nodejs",
+  "main": "index.js",
+  "repository": "https://github.com/Alabs02/typescriptAlgo.git",
+  "author": "<alabson.inc@gmail.com> Alabura Usman",
+  "license": "The Unlicense"
+}
